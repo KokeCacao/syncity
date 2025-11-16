@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a cyberpunk city tile with a street market and modular stalls",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a cyberpunk city tile with service alleys and exposed pipes",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a cyberpunk city tile with a plaza and neon billboard frames",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a cyberpunk city tile with a residential megablock entrance",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a cyberpunk city tile with a skybridge between towers",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a cyberpunk city tile with a monorail platform and tracks",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a cyberpunk city tile with a research lab facade and loading bay",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a cyberpunk city tile with a rooftop greenhouse garden",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a cyberpunk city tile with an energy substation and conduits",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a cyberpunk city tile with a nightclub frontage and signage",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a cyberpunk city tile with a tech bazaar of modular kiosks",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a cyberpunk city tile with a security gate and turnstiles",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

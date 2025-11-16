@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "an airport tile with a runway and control tower",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "an airport tile with airplanes on stands",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "an airport tile with a terminal building",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "an airport tile with luggage carts and service lanes",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "an airport tile with a parking lot",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "an airport tile with a hangar",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "an airport tile with jet bridges",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "an airport tile with a fuel truck bay and pumps",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "an airport tile with a security checkpoint hall",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "an airport tile with a baggage claim hall",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "an airport tile with a customs inspection area",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "an airport tile with a duty-free shop concourse",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

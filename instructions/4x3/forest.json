@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a dense forest tile with tall trees and a small clearing",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a dense forest tile with a river and a wooden footbridge",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a dense forest tile with a timber cabin and porch",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a dense forest tile with a small pond and boardwalk",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a dense forest tile with mossy boulders and logs",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a dense forest tile with a wayfinding signpost",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a dense forest tile with a hiking trail and steps",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a dense forest tile with autumn foliage on the ground",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a dense forest tile with a waterfall and rock ledges",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a dense forest tile with a campfire ring and benches",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a dense forest tile with wildflower meadows and path",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a dense forest tile with rocky escarpment and lookout",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

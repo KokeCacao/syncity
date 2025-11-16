@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a park tile with a playground and picnic area",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a park tile with a pond and ducks statue and pier",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a park tile with walking trails and signposts",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a park tile with a garden and flowers",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a park tile with a fountain",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a park tile with a sports field and bleachers",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a park tile with tall trees and benches",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a park tile with a gazebo",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a park tile with a bike path and racks",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a park tile with a dog park enclosure",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a park tile with a skate park bowl",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a park tile with an amphitheater stage",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

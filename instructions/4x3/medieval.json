@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a medieval tile with farmland fields and cottages",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a medieval tile with a hamlet of thatched houses",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a medieval tile with a village market square",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a medieval tile with a blacksmith and small workshops",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a medieval tile with an inn and stables",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a medieval tile with a guildhall and stalls",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a medieval tile with stone townhouses and narrow streets",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a medieval tile with a city wall segment and gate",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a medieval tile with a hilltop keep and bailey",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a medieval tile with a river, stone bridge and watermill",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a medieval tile with riverside docks and warehouses",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a medieval tile with a coastal harbor and lighthouse",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

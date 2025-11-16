@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "an ancient rome tile with forums and columned porticoes",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "an ancient rome tile with aqueduct arches and road",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "an ancient rome tile with a marketplace and stalls",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "an ancient rome tile with villas and peristyle gardens",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "an ancient rome tile with statues and fountains",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "an ancient rome tile with public baths (thermae)",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "an ancient rome tile with narrow insulae-lined streets",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "an ancient rome tile with a triumphal arch and plaza",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "an ancient rome tile with a fortified gate and walls",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "an ancient rome tile with a stone bridge over a river",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "an ancient rome tile with riverside warehouses and docks",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "an ancient rome tile with a harbor quay and lighthouse",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

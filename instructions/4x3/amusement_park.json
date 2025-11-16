@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "an amusement park tile with a roller coaster and ferris wheel",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "an amusement park tile with a carousel",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "an amusement park tile with food stalls and seating",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "an amusement park tile with a haunted house",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "an amusement park tile with a water ride flume",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "an amusement park tile with a circus tent and ring",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "an amusement park tile with lighting rigs and archways",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "an amusement park tile with a bumper car pavilion",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "an amusement park tile with a mini golf course",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "an amusement park tile with a parade route and grandstand",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "an amusement park tile with a performance stage and truss",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "an amusement park tile with souvenir shops and kiosks",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

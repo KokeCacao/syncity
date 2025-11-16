@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a large city block with parks",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a large city block with skyscrapers",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a large city block with bridges and rivers",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a large city block with ponds and trees",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a large city block with parks",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a large city block near ocean",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a large city block with residential houses",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a large city block with residential houses",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a large city block coastal line",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a large city block with industry power plants",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a large city block, construction site",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a large city block, construction site near ocean",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

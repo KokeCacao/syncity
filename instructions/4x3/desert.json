@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a desert tile with dune fields and scattered cacti",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a desert tile with dunes and rocky outcrops",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a desert tile with an oasis and palm grove",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a desert tile with a caravanserai courtyard and stalls",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a desert tile with a mudbrick village and alleys",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a desert tile with a hilltop watchtower and walls",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a desert tile with a canyon and a small stone bridge",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a desert tile with a dry riverbed crossing (wadi)",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a desert tile with ancient ruins and broken columns",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a desert tile with a nomad tent camp and windbreaks",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a desert tile with a well and date grove",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a desert tile with a salt flat waystation and markers",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

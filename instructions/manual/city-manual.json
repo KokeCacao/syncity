@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "Dense low-rise residential block with small shops and narrow streets, square tile, isometric, voxel art style",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "Cluster of mid-rise apartments with pastel facades and tree-lined sidewalks, square tile, isometric, voxel art style",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "Modern commercial zone with glass offices, cafes, and public seating, square tile, isometric, voxel art style",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "Mixed-use area with offices, apartments, and green courtyards, square tile, isometric, voxel art style",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "Urban block with mid-rise towers, parking lots, and small plazas, square tile, isometric, voxel art style",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "Dense retail and commercial buildings near busy intersection, square tile, isometric, voxel art style",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "Residential zone with consistent low-rise buildings and local shops, square tile, isometric, voxel art style",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "Compact city block with modern mid-rises and organized street grid, square tile, isometric, voxel art style",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "Edge of city with fewer high-rises and more greenery, square tile, isometric, voxel art style",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "Park extension with dense trees and a water feature, square tile, isometric, voxel art style",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "Community recreation area with playgrounds and open lawns, square tile, isometric, voxel art style",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "Park transition with scattered cultural buildings and trees, square tile, isometric, voxel art style",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

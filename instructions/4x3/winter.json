@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a snowy winter tile with pine trees and a frozen lake",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a snowy winter tile with a timber cabin and chimney",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a snowy winter tile with snow-covered mountains",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a snowy winter tile with a sled trail and fence posts",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a snowy winter tile with a ski slope and lift pylons",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a snowy winter tile with bare trees and drifts",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a snowy winter tile with a stone bridge over a frozen river",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a snowy winter tile with an ice cave entrance",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a snowy winter tile with a snow-covered village square",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a snowy winter tile with a watchtower on a ridge",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a snowy winter tile with a frozen pond and footbridge",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a snowy winter tile with storage sheds and woodpiles",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

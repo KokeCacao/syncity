@@ -8,17 +8,27 @@ from pipeline_flux_controlnet_inpaint import FluxControlNetInpaintingPipeline
 check_min_version("0.30.2")
 
 transformer = FluxTransformer2DModel.from_pretrained(
-    "black-forest-labs/FLUX.1-dev", subfolder='transformer', torch_dtype=torch.bfloat16
+    "black-forest-labs/FLUX.1-dev", subfolder='transformer', torch_dtype=torch.bfloat16,
+    # cache_dir="/data/users/pub/.cache/huggingface/hub/models--black-forest-labs--FLUX.1-dev",
+    # revision="3de623fc3c33e44ffbe2bad470d0f45bccf2eb21",
+    # local_files_only=True,
 )
 
 
 # Build pipeline
-controlnet = FluxControlNetModel.from_pretrained("alimama-creative/FLUX.1-dev-Controlnet-Inpainting-Beta", torch_dtype=torch.bfloat16)
+controlnet = FluxControlNetModel.from_pretrained("alimama-creative/FLUX.1-dev-Controlnet-Inpainting-Beta", torch_dtype=torch.bfloat16,
+                                                #  cache_dir="/data/users/pub/.cache/huggingface/hub/models--alimama-creative--FLUX.1-dev-Controlnet-Inpainting-Beta",
+                                                #  revision="4c71e88b32ab247b3c2518803224c7c6473dbeb9",
+                                                #  local_files_only=True,
+                                                 )
 pipe = FluxControlNetInpaintingPipeline.from_pretrained(
     "black-forest-labs/FLUX.1-dev",
     controlnet=controlnet,
     transformer=transformer,
-    torch_dtype=torch.bfloat16
+    torch_dtype=torch.bfloat16,
+    # cache_dir="/data/users/pub/.cache/huggingface/hub/models--black-forest-labs--FLUX.1-dev",
+    # revision="3de623fc3c33e44ffbe2bad470d0f45bccf2eb21",
+    # local_files_only=True,
 )
 pipe.transformer.to(torch.bfloat16)
 pipe.controlnet.to(torch.bfloat16)

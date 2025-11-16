@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a lego city tile with buildings and roads",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a lego city tile with a park and playground",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a lego city tile with a train station",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a lego city tile with skyscrapers",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a lego city tile with a harbor and boats",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a lego city tile with a construction site",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a lego city tile with houses and gardens",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a lego city tile with a shopping mall",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a lego city tile with a sports stadium",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a lego city tile with a fire station",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a lego city tile with a police station",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a lego city tile with an airport",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

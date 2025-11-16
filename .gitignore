@@ -412,3 +412,13 @@ wandb/*
 *.pth
 
 .vscode/
+
+# Defined by Koke_Cacao
+
+blender-3.6.19-linux-x64/*
+data/*
+env/*
+historical_scenes/*
+scenes/*
+*.mp4
+*.ply

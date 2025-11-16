@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a minecraft terrain tile with rolling hills and trees",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a minecraft terrain tile with a river and a small bridge",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a minecraft terrain tile with a dense forest",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a minecraft terrain tile with a village and paths",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a minecraft terrain tile with farms and animal pens",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a minecraft terrain tile with a mine entrance",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a minecraft terrain tile with mountains and caves",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a minecraft terrain tile with a stone castle on a hill",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a minecraft terrain tile with a fortified outpost",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a minecraft terrain tile with a waterfall and pool",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a minecraft terrain tile with a coastal beach and pier",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a minecraft terrain tile with a volcanic peak and lava flows",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

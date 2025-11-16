@@ -165,7 +165,7 @@ class Gaussian(torch.nn.Module):
         el = PlyElement.describe(elements, 'vertex')
         PlyData([el]).write(path)
 
-    def load_ply(self, path, transform=[[1, 0, 0], [0, 0, -1], [0, 1, 0]]):
+    def load_ply(self, path, transform=[[1, 0, 0], [0, 0, -1], [0, 1, 0]], center=True):
         plydata = PlyData.read(path)
 
         xyz = np.stack((np.asarray(plydata.elements[0]["x"]),
@@ -199,6 +199,11 @@ class Gaussian(torch.nn.Module):
         rots = np.zeros((xyz.shape[0], len(rot_names)))
         for idx, attr_name in enumerate(rot_names):
             rots[:, idx] = np.asarray(plydata.elements[0][attr_name])
+        
+        if center: # shift so that xyz is centered
+            center_xyz = 0.5 * (xyz.max(axis=0) + xyz.min(axis=0))
+            xyz = xyz - center_xyz[np.newaxis, :]
+            
             
         if transform is not None:
             transform = np.array(transform)

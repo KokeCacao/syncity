@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a modern living room tile with a sofa, coffee table, and TV",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a modern living room tile with large windows and indoor plants",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a modern living room tile with a fireplace and mantle",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a modern living room tile with a bookshelf wall",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a modern living room tile with framed abstract art",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a modern living room tile with a patterned area rug",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a modern living room tile with a dining nook and table",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a modern living room tile with a minimalist console and storage",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a modern living room tile with layered ceiling lights",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a modern living room tile with a gaming/media setup",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a modern living room tile with a reading chair and floor lamp",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a modern living room tile with a bay window seating bench",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}

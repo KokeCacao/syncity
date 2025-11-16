@@ -1,0 +1,65 @@
+{
+  "tiles": [
+    {
+      "prompt": "a college campus tile with academic buildings and green spaces",
+      "x": 0,
+      "y": 0
+    },
+    {
+      "prompt": "a college campus tile with a library",
+      "x": 1,
+      "y": 0
+    },
+    {
+      "prompt": "a college campus tile with a student center",
+      "x": 2,
+      "y": 0
+    },
+    {
+      "prompt": "a college campus tile with dormitories",
+      "x": 0,
+      "y": 1
+    },
+    {
+      "prompt": "a college campus tile with a sports field",
+      "x": 1,
+      "y": 1
+    },
+    {
+      "prompt": "a college campus tile with a cafeteria",
+      "x": 2,
+      "y": 1
+    },
+    {
+      "prompt": "a college campus tile with a science lab",
+      "x": 0,
+      "y": 2
+    },
+    {
+      "prompt": "a college campus tile with an art building",
+      "x": 1,
+      "y": 2
+    },
+    {
+      "prompt": "a college campus tile with a music hall",
+      "x": 2,
+      "y": 2
+    },
+    {
+      "prompt": "a college campus tile with a quad",
+      "x": 0,
+      "y": 3
+    },
+    {
+      "prompt": "a college campus tile with a fountain",
+      "x": 1,
+      "y": 3
+    },
+    {
+      "prompt": "a college campus tile with a statue",
+      "x": 2,
+      "y": 3
+    }
+  ],
+  "prompt": "{tile_prompt}, isometric, voxel art style"
+}
